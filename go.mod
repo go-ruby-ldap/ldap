@@ -1,6 +1,6 @@
 module github.com/go-ruby-ldap/ldap
 
-go 1.26.4
+go 1.27.1
 
 require github.com/go-ldap/ldap/v3 v3.4.14
 
